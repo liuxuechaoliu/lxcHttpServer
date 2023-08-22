@@ -1,4 +1,4 @@
-# myHttpServer
+# lxcHttpServer
 
 # 简介
 这是一个由C++语言编写的Web服务器，目前支持GET方法请求静态资源。支持解析POST方法。支持HTTP长连接。
